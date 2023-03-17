@@ -42,6 +42,8 @@
 
  ##
  
+  <h1>Contato</h1> <br>
+ 
 <div >
 
 <a href = "henrique.novaes93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
