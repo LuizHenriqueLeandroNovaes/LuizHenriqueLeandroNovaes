@@ -15,30 +15,29 @@
 
 ##
  
- <h1>Linguagens de programação</h1> <br>
+ <h1><b>Linguagens de programação</b></h1> <br>
 
 <div>
-            <img  height="60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-           <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-           <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img  height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+           <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+           <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
  
  <h1>Linguagens de marcação</h1> <br>
  
  <div>
-            <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
  
  <h1>Outras tecnologias</h1> <br>
  
  <div>
-            <img height="100em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-            <img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+            <img height="90em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
              <img height="60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
             <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-             <img height="60em" src="https://cdn.iconscout.com/icon/free/png-512/figma-3521426-2944870.png?f=avif&w=256" /> 
-            <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+             <img height="60em" src="https://cdn.iconscout.com/icon/free/png-512/figma-3521426-2944870.png?f=avif&w=256" />  
             <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
             <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
             <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
