@@ -39,9 +39,8 @@
             <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
              <img height="60em" src="https://cdn.iconscout.com/icon/free/png-512/figma-3521426-2944870.png?f=avif&w=256" /> 
             <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-          
-          
+            <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+           
 </div>
 
  ##
