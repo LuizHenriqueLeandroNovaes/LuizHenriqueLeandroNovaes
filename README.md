@@ -59,8 +59,11 @@
 </div>
  
  <p align="center">
-  <img src="https://github.com/<LuizHenriqueLeandroNovaes>/<LuizHenriqueLeandroNovaes>/blob/main/github-contribution-grid-snake.svg" alt="Cobrinha" />
+  <a href="https://github.com/luizhenriqueleandronovaes">
+    <img src="https://raw.githubusercontent.com/luizhenriqueleandronovaes/luizhenriqueleandronovaes/output/github-contribution-grid-snake.svg" alt="Cobrinha" />
+  </a>
 </p>
+
 
  
   
