@@ -57,8 +57,9 @@
     <a href="https://www.linkedin.com/in/luizhnovaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.youtube.com/@magnavideotecaderesolucoes6445/playlists" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="https://wa.me/5581984418086"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
- 
- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)][https://discord.com/users/INSIRA-AQUI-O-ID-DO-USUÁRIO]
+ <a href="discord://app.com/users/ID_DO_USUARIO"> 
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 </div>
 
