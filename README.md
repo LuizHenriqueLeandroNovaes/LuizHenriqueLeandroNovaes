@@ -1,3 +1,4 @@
+  <br><hr> <br>
 ### Oi, sou Luiz Novaes 👋
 
 
@@ -15,6 +16,7 @@
 
 ##
  
+  <hr> <br>
  <h1 align="center"><b>Linguagens de programação</b></h1> <br>
 
 <div align="center">
@@ -33,7 +35,7 @@
             <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
  
-  <hr>
+  <hr> <br>
  <h1 align="center">Outras tecnologias</h1> <br>
  
  <div align="center">
@@ -51,6 +53,7 @@
 
  ##
  
+  <hr> <br>
  <h1 align="center">Contato</h1> <br>
  
 <div align="center">
@@ -60,6 +63,7 @@
     <a href="https://wa.me/5581984418086"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
  
+   <br><hr> <br>
 
 
 
