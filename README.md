@@ -16,9 +16,9 @@
 
 ##
  
- <h1    box-shadow: 0 0 10px 2px rgba(0, 0, 255, 0.5); align="center"><b>Linguagens de programação</b></h1> <br>
+ <h1 align="center"><b>Linguagens de programação</b></h1> <br>
 
-<div align="center">
+<div  background-color: #f2f2f2; align="center">
             <img  height="70em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
            <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
            <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
