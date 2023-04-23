@@ -16,9 +16,10 @@
 
 ##
  
+  <hr> <br>
  <h1 align="center"><b>Linguagens de programação</b></h1> <br>
 
-<div  background-color: #f2f2f2; align="center">
+<div  style="background-color: #f2f2f2; padding: 10px; align="center">
             <img  height="70em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
            <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
            <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -26,7 +27,7 @@
 
 </div>
 
- 
+  <hr> <br>
  <h1 align="center">Linguagens de marcação</h1> <br>
  
 <div align="center">
