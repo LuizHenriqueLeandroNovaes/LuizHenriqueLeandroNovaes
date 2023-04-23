@@ -3,7 +3,7 @@
 
 - 🔭Dev Full Stack
 
-<div margin-left= 50px align-item=center>
+<div margin-left= 500px align-item=center>
  <a href="https://github.com/LuizHenriqueLeandroNovaes">
   <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizHenriqueLeandroNovaes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=LuizHenriqueLeandroNovaes%20Roza%20%27s%20GitHub%20Stats"/>
   
