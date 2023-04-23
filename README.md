@@ -58,4 +58,9 @@
     <a href="https://wa.me/5581984418086"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
  
+ <p align="center">
+  <img src="https://github.com/<LuizHenriqueLeandroNovaes>/<LuizHenriqueLeandroNovaes>/blob/main/github-contribution-grid-snake.svg" alt="Cobrinha" />
+</p>
+
+ 
   
