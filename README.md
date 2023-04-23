@@ -24,7 +24,8 @@
            <img height="70em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 
 </div>
- 
+
+ <hr>
  <h1 align="center">Linguagens de marcação</h1> <br>
  
 <div align="center">
@@ -32,6 +33,7 @@
             <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
  
+  <hr>
  <h1 align="center">Outras tecnologias</h1> <br>
  
  <div align="center">
