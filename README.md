@@ -15,7 +15,7 @@
 
 ##
  
- <h1><b>Linguagens de programação</b></h1> <br>
+ <h1 align="center"><b>Linguagens de programação</b></h1> <br>
 
 <div align="center">
             <img  height="70em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -25,14 +25,14 @@
 
 </div>
  
- <h1>Linguagens de marcação</h1> <br>
+ <h1 align="center">Linguagens de marcação</h1> <br>
  
 <div align="center">
             <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             <img height="70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
  
- <h1>Outras tecnologias</h1> <br>
+ <h1 align="center">Outras tecnologias</h1> <br>
  
  <div align="center">
             <img height="90em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -49,7 +49,7 @@
 
  ##
  
- <h1>Contato</h1> <br>
+ <h1 align="center">Contato</h1> <br>
  
 <div align="center">
     <a href="mailto:henrique.novaes93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
