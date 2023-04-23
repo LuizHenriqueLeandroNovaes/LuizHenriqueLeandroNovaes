@@ -16,7 +16,7 @@
 
 ##
  
- <h1  box-shadow: 0 0 10px #FF0000; align="center"><b>Linguagens de programação</b></h1> <br>
+ <h1    box-shadow: 0 0 10px 2px rgba(0, 0, 255, 0.5); align="center"><b>Linguagens de programação</b></h1> <br>
 
 <div align="center">
             <img  height="70em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -26,7 +26,7 @@
 
 </div>
 
- <hr>
+ 
  <h1 align="center">Linguagens de marcação</h1> <br>
  
 <div align="center">
